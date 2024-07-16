@@ -1,8 +1,4 @@
-
-
-
-
-
+This repository contains the files for a simple informational web page project created as part of my first-year Web Design course module. The project demonstrates basic HTML, CSS, and JavaScript skills.
 
 
 ![image](https://github.com/user-attachments/assets/6e727e8e-2d72-4037-accc-38584eeb5a6b)
@@ -14,3 +10,6 @@
 ![image](https://github.com/user-attachments/assets/a253ed7f-b03f-4e70-89e4-053f11985a89)
 
 ![image](https://github.com/user-attachments/assets/c8f6ddd0-60f6-444f-a896-31c6a50ab4cc)
+
+
+Thank You.!
